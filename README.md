@@ -1,5 +1,5 @@
 <!-- Typing SVG -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=835&lines=Hi+there%2C+I'm+Alex!;Passionate+about+coding%2C+AI+automation%2C+4x4+cars%2C+and+football.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=835&lines=Just+trying%2C+doing%2C+and+moving+forward.;Not+losing+motivation+by+only+thinking+and+talking.)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avnesterovich/)
 
