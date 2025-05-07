@@ -12,9 +12,8 @@ My interests weave together:
 
 - 💻 **Coding & AI Automation**
 - 🚙 **4x4 Cars & Off-Road Adventures**
-- ⚽ **Football & Team Dynamics**
-- 📊 **Data Analysis & Visualization**
-- 🌍 **Exploring Technology’s Impact on the World**
+- ⚽ **Play Football**
+- 🚴 **Biking**
 
 I believe in leveraging technology to create meaningful, efficient, and scalable systems that improve lives and businesses.
 
@@ -46,14 +45,8 @@ I believe in leveraging technology to create meaningful, efficient, and scalable
 
 ---
 
-## 🤝 Let’s Connect!
-
-If you’re interested in collaborating, sharing ideas, or just geeking out over AI, automation, off-road adventures, or football — feel free to reach out!  
-I’m always excited to connect with like-minded people and explore new possibilities.
-
 📫 **You can reach me on LinkedIn:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avnesterovich/)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avnesterovich/)
 
 💡 *“Just trying, doing, and moving forward — not losing motivation by only thinking and talking.”*
