@@ -62,12 +62,12 @@ mortgage calculator, interactive maps, property comparison, 9 languages.
 ### GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AleksNeStu&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AleksNeStu&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AleksNeStu&theme=github-dark-blue&hide_border=true" alt="Streak Stats" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AleksNeStu&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AleksNeStu&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=10" alt="Trophies"/>
 </div>
 
 <div align="center">
