@@ -26,8 +26,29 @@ mortgage calculator, interactive maps, property comparison, 9 languages.
 
 [![Live Demo](https://img.shields.io/badge/Try_Live_Demo-brightgreen?style=for-the-badge&logo=render&logoColor=white)](https://realestate-web-dz1y.onrender.com)
 
-<img src="https://raw.githubusercontent.com/AleksNeStu/ai-real-estate-assistant/main/assets/screen.png" alt="AI Real Estate Assistant — Chat Interface" width="700"/>
+<img src="https://raw.githubusercontent.com/AleksNeStu/ai-real-estate-assistant/main/assets/screenshot-search.png" alt="AI Real Estate Assistant — Property Search" width="700"/>
 
+</div>
+
+---
+
+### GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AleksNeStu&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AleksNeStu&theme=github-dark-blue&hide_border=true" alt="Streak Stats" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AleksNeStu&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=10" alt="Trophies"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleksNeStu/AleksNeStu/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleksNeStu/AleksNeStu/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AleksNeStu/AleksNeStu/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
@@ -55,27 +76,6 @@ mortgage calculator, interactive maps, property comparison, 9 languages.
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 
-</div>
-
----
-
-### GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AleksNeStu&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AleksNeStu&theme=github-dark-blue&hide_border=true" alt="Streak Stats" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AleksNeStu&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=10" alt="Trophies"/>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleksNeStu/AleksNeStu/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleksNeStu/AleksNeStu/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AleksNeStu/AleksNeStu/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 ---
