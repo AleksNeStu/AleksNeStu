@@ -26,7 +26,7 @@ mortgage calculator, interactive maps, property comparison, 9 languages.
 
 [![Live Demo](https://img.shields.io/badge/Try_Live_Demo-brightgreen?style=for-the-badge&logo=render&logoColor=white)](https://realestate-web-dz1y.onrender.com)
 
-<img src="https://raw.githubusercontent.com/AleksNeStu/ai-real-estate-assistant/main/screenshots/02-chat-page.png" alt="AI Real Estate Assistant — Chat Interface" width="700"/>
+<img src="https://raw.githubusercontent.com/AleksNeStu/ai-real-estate-assistant/main/assets/screen.png" alt="AI Real Estate Assistant — Chat Interface" width="700"/>
 
 </div>
 
