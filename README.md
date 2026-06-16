@@ -40,10 +40,6 @@ mortgage calculator, interactive maps, property comparison, 9 languages.
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AleksNeStu&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=10" alt="Trophies"/>
-</div>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleksNeStu/AleksNeStu/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleksNeStu/AleksNeStu/output/github-contribution-grid-snake.svg" />
