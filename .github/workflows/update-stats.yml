@@ -17,14 +17,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout badges branch (artifact branch, keeps main clean)
+        uses: actions/checkout@v4
+        with:
+          ref: badges
+          fetch-depth: 1
 
-      - name: Refresh stats.json & README count line
+      - name: Refresh stats.json
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python3 - <<'PY'
-          import json, os, re, urllib.request
+          import json, os, urllib.request
 
           repo = "AleksNeStu/ai-real-estate-assistant"
           req = urllib.request.Request(
@@ -39,33 +43,19 @@ jobs:
           data = json.load(urllib.request.urlopen(req))
           stats = {"stars": int(data["stargazers_count"]), "forks": int(data["forks_count"])}
 
-          changed = False
-
-          # stats.json (source of truth for the badges)
           try:
               old = json.load(open("stats.json"))
           except Exception:
               old = None
-          if old != stats:
+          if old == stats:
+              print(f"no change -> {stats}")
+          else:
               with open("stats.json", "w") as f:
                   json.dump(stats, f)
                   f.write("\n")
-              changed = True
-
-          # human-readable count line in README
-          readme = open("README.md", encoding="utf-8").read()
-          new_readme, n = re.subn(
-              r"· \d+ stars · \d+ forks",
-              f"· {stats['stars']} stars · {stats['forks']} forks",
-              readme,
-          )
-          if n and new_readme != readme:
-              open("README.md", "w", encoding="utf-8").write(new_readme)
-              changed = True
-
-          with open(os.environ["GITHUB_ENV"], "a") as f:
-              f.write(f"CHANGED={'1' if changed else ''}\n")
-          print(f"{stats['stars']} stars / {stats['forks']} forks -> changed={changed}")
+              with open(os.environ["GITHUB_ENV"], "a") as f:
+                  f.write("CHANGED=1\n")
+              print(f"updated -> {stats}")
           PY
 
       - name: Commit
@@ -73,6 +63,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add stats.json README.md
+          git add stats.json
           git commit -m "chore(stats): refresh stars/forks [skip ci]"
-          git push
+          git push origin badges
