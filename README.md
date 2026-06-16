@@ -17,7 +17,7 @@ Building AI-powered SaaS products with Python, FastAPI & Next.js
 <div align="center">
 
 [🏠 **AI Real Estate Assistant**](https://github.com/AleksNeStu/ai-real-estate-assistant)
-![Stars](https://img.shields.io/github/stars/AleksNeStu/ai-real-estate-assistant?style=social) ![Forks](https://img.shields.io/github/forks/AleksNeStu/ai-real-estate-assistant?style=social)
+![Stars](https://img.shields.io/github/stars/AleksNeStu/ai-real-estate-assistant?style=social&v=2) ![Forks](https://img.shields.io/github/forks/AleksNeStu/ai-real-estate-assistant?style=social&v=2)
 
 Conversational AI for property search — RAG pipeline, 6+ LLM providers (OpenAI, Claude, Gemini, Ollama),
 mortgage calculator, interactive maps, property comparison, 9 languages.
