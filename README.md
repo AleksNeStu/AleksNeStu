@@ -22,7 +22,7 @@ Building AI-powered SaaS products with Python, FastAPI & Next.js
 Conversational AI for property search — RAG pipeline, 6+ LLM providers (OpenAI, Claude, Gemini, Ollama),
 mortgage calculator, interactive maps, property comparison, 9 languages.
 
-**FastAPI · Next.js · ChromaDB · LangChain · 227 stars · 100 forks**
+**FastAPI · Next.js · ChromaDB · LangChain**
 
 [![Live Demo](https://img.shields.io/badge/Try_Live_Demo-brightgreen?style=for-the-badge&logo=render&logoColor=white)](https://realestate-web-dz1y.onrender.com)
 
