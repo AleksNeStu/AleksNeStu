@@ -10,7 +10,7 @@
 
 ---
 
-### NestLab — AI product studio
+### Products
 
 | Product | What it does |
 |---|---|
@@ -92,10 +92,4 @@ mortgage calculator, interactive maps, property comparison, 9 languages.
 ![OVH](https://img.shields.io/badge/OVHcloud-123F6D?logo=ovh&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 
-</div>
-
----
-
-<div align="center">
-  <i>Founder-led. Shipping in public. NestLab — nestlab.tech</i>
 </div>
