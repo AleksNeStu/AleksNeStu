@@ -1,7 +1,7 @@
 <div align="center">
 
 # Alex Nesterovich
-**Founder, NestLab** · Building AI products for hiring, job search & real estate
+**Senior Software Engineer · SaaS & Automation** — Founder, NestLab
 
 [![NestLab](https://img.shields.io/badge/NestLab-nestlab.tech-6366F1?logo=rocket&logoColor=white)](https://nestlab.tech)
 [![Linktree](https://img.shields.io/badge/Links-Linktree-43b883?logo=linktree&logoColor=white)](https://linktr.ee/avnesterovich)
