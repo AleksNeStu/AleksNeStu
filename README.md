@@ -1,14 +1,23 @@
 <div align="center">
 
 # Alex Nesterovich
-**Senior Software Engineer · AI/ML · Full-Stack**
+**Founder, NestLab** · Building AI products for hiring, job search & real estate
 
-Building AI-powered SaaS products with Python, FastAPI & Next.js
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avnesterovich/)
+[![NestLab](https://img.shields.io/badge/NestLab-nestlab.tech-6366F1?logo=rocket&logoColor=white)](https://nestlab.tech)
 [![Linktree](https://img.shields.io/badge/Links-Linktree-43b883?logo=linktree&logoColor=white)](https://linktr.ee/avnesterovich)
 
 </div>
+
+---
+
+### NestLab — AI product studio
+
+| Product | What it does |
+|---|---|
+| 🏠 [**AI Real Estate Assistant**](https://github.com/AleksNeStu/ai-real-estate-assistant) | Open-source conversational AI for property search — 286★, live demo |
+| ✅ **Check CV** | Background verification & compliance screening for employers *(building)* |
+| 📄 **Tune CV** | AI-driven resume optimization for job applicants *(building)* |
+| 🗺️ **PropVector AI** | Lifestyle-based property search across MLS data *(building)* |
 
 ---
 
@@ -77,5 +86,5 @@ mortgage calculator, interactive maps, property comparison, 9 languages.
 ---
 
 <div align="center">
-  <i>"Just trying, doing, and moving forward."</i>
+  <i>Founder-led. Shipping in public. NestLab — nestlab.tech</i>
 </div>
