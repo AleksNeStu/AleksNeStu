@@ -3,9 +3,8 @@
 # Alex Nesterovich
 **Senior Software Engineer — Backend, Cloud & AI Systems** | Python, AWS/Azure/GCP, Automation
 
-Open to remote senior IC roles · Founder, NestLab — independent SaaS studio
+Founder, NestLab — independent SaaS studio
 
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-remote_senior_roles-success?style=for-the-badge&logo=github&logoColor=white)](https://linktr.ee/avnesterovich)
 [![NestLab](https://img.shields.io/badge/NestLab-nestlab.tech-6366F1?logo=rocket&logoColor=white)](https://nestlab.tech)
 [![Linktree](https://img.shields.io/badge/Links-Linktree-43b883?logo=linktree&logoColor=white)](https://linktr.ee/avnesterovich)
 
