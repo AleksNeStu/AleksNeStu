@@ -1,23 +1,15 @@
 <div align="center">
 
 # Alex Nesterovich
-**Senior Software Engineer · SaaS & Automation** — Founder, NestLab
+**Senior Software Engineer — Backend, Cloud & AI Systems** | Python, AWS/Azure/GCP, Automation
 
+Open to remote senior IC roles · Founder, NestLab — independent SaaS studio
+
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-remote_senior_roles-success?style=for-the-badge&logo=github&logoColor=white)](https://linktr.ee/avnesterovich)
 [![NestLab](https://img.shields.io/badge/NestLab-nestlab.tech-6366F1?logo=rocket&logoColor=white)](https://nestlab.tech)
 [![Linktree](https://img.shields.io/badge/Links-Linktree-43b883?logo=linktree&logoColor=white)](https://linktr.ee/avnesterovich)
 
 </div>
-
----
-
-### Products
-
-| Product | What it does |
-|---|---|
-| 🏠 [**AI Real Estate Assistant**](https://github.com/AleksNeStu/ai-real-estate-assistant) | Open-source conversational AI for property search — 286★, live demo |
-| ✅ **Check CV** | Background verification & compliance screening for employers *(building)* |
-| 📄 **Tune CV** | AI-driven resume optimization for job applicants *(building)* |
-| 🗺️ **PropVector AI** | Lifestyle-based property search across MLS data *(building)* |
 
 ---
 
@@ -30,6 +22,8 @@
 
 Conversational AI for property search — RAG pipeline, 6+ LLM providers (OpenAI, Claude, Gemini, Ollama),
 mortgage calculator, interactive maps, property comparison, 9 languages.
+Shipped, deployed, and maintained solo end-to-end — production evidence of the same
+backend/cloud/AI skillset listed below.
 
 **FastAPI · Next.js · ChromaDB · LangChain**
 
@@ -38,6 +32,19 @@ mortgage calculator, interactive maps, property comparison, 9 languages.
 <img src="https://raw.githubusercontent.com/AleksNeStu/ai-real-estate-assistant/main/assets/screenshots/search-dark.png" alt="AI Real Estate Assistant — Property Search" width="700"/>
 
 </div>
+
+---
+
+### Independent Product Work
+
+Building small SaaS products around AI, automation and developer tooling under **NestLab**
+— proof of shipping ability, not a distraction from full-time roles:
+
+| Product | What it does |
+|---|---|
+| ✅ **Check CV** | Background verification & compliance screening for employers *(building)* |
+| 📄 **Tune CV** | AI-driven resume optimization for job applicants *(building)* |
+| 🗺️ **PropVector AI** | Lifestyle-based property search across MLS data *(building)* |
 
 ---
 
