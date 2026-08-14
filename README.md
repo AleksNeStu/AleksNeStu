@@ -50,7 +50,7 @@ Building small SaaS products around AI, automation and developer tooling under *
 ### GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AleksNeStu&theme=github-dark-blue&hide_border=true" alt="Streak Stats" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=AleksNeStu&theme=github-dark-blue&hide_border=true" alt="Streak Stats" height="170"/>
 </div>
 
 <div align="center">
