@@ -7,8 +7,6 @@ Fully remote, EU timezones. Open to senior IC roles in backend engineering, plat
 and developer tooling. I ship and operate the systems myself, end to end.
 
 [![NestLab](https://img.shields.io/badge/NestLab-nestlab.tech-6366F1?logo=rocket&logoColor=white)](https://nestlab.tech)
-[![Email](https://img.shields.io/badge/Email-aleksn.code@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:aleksn.code@gmail.com)
-[![Booking](https://img.shields.io/badge/Book_a_60min_slot-Cal.com-0081FF?logo=googlecalendar&logoColor=white)](https://cal.com/aleksn/tech-interview-60min?user=aleksn&overlayCalendar=true)
 
 </div>
 
@@ -122,16 +120,5 @@ Proof of shipping ability, not a distraction from a full-time role:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![OVH](https://img.shields.io/badge/OVHcloud-123F6D?logo=ovh&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
-
-</div>
-
----
-
-### Contact
-
-<div align="center">
-
-**Remote (EU timezones)** · [aleksn.code@gmail.com](mailto:aleksn.code@gmail.com)
-· [Book a 60-minute slot](https://cal.com/aleksn/tech-interview-60min?user=aleksn&overlayCalendar=true)
 
 </div>
