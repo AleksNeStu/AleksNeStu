@@ -1,10 +1,10 @@
 <div align="center">
 
 # Aleksandr Nesterovich
-**Senior Backend · Automation · DevOps Engineer** — Python · FastAPI · AWS · Azure · GCP
+**NestLab** — an open-source AI automation studio
 
-Fully remote, EU timezones. Open to senior IC roles in backend engineering, platform
-and developer tooling. I ship and operate the systems myself, end to end.
+Backend, frontend, SaaS and infrastructure end-to-end ·
+Python · FastAPI · Next.js · Docker · Cloud
 
 [![NestLab](https://img.shields.io/badge/NestLab-nestlab.tech-6366F1?logo=rocket&logoColor=white)](https://nestlab.tech)
 
@@ -12,7 +12,7 @@ and developer tooling. I ship and operate the systems myself, end to end.
 
 ---
 
-### Featured Projects
+### Featured Open Source
 
 <div align="center">
 
@@ -21,8 +21,7 @@ and developer tooling. I ship and operate the systems myself, end to end.
 
 Conversational search over property listings — RAG pipeline, 6+ LLM providers (OpenAI, Claude,
 Gemini, Ollama), mortgage calculator, interactive maps, property comparison, 9 languages.
-Shipped, deployed and maintained solo end to end — production evidence of the backend,
-data and cloud skillset below.
+Built, deployed and maintained solo end to end: backend, data, cloud and interface.
 
 **FastAPI · Next.js · PostgreSQL · ChromaDB · Docker**
 
@@ -46,26 +45,28 @@ Docker. The plainest backend-and-data example on this profile.
 
 ---
 
-### How I work
+### What the studio ships
 
-- **Backend first** — Python/FastAPI services, PostgreSQL, Redis, message queues, background workers.
-- **Platform** — Docker, Kubernetes, Terraform, CI/CD on GitHub Actions, GCP / Azure / AWS.
-- **Automation** — the jobs boards, the ingest pipelines and the tooling around this profile
-  are mine: scraped, deployed, monitored and fixed solo.
-- **AI where it earns its place** — RAG and agentic workflows where the product needs them,
-  not as a job title.
+- **Backend & APIs** — Python/FastAPI services, PostgreSQL, Redis, message queues, background workers.
+- **Frontend** — Next.js, React, Tailwind, shadcn/ui — from API contract to shipped screen.
+- **Data & AI** — RAG and agentic workflows where the product needs them, not as a label.
+- **Platform** — Docker, Kubernetes, Terraform, CI/CD on GitHub Actions, GCP / Azure / AWS / Cloudflare.
+- **Full-stack ownership** — architecture, delivery, observability and production support, solo.
 
+Every product below is built the same way: one person, end to end, shipped and operated.
 
 ---
 
-### Independent Product Work
+### NestLab Products
 
-**NestLab** is my own product studio — I design, build, deploy and operate it solo.
-Proof of shipping ability, not a distraction from a full-time role:
+**NestLab** is the studio — a set of products designed, built, deployed and operated solo.
+The public repositories above are the open-source side of it; the studio itself is at
+[nestlab.tech](https://nestlab.tech).
 
 | Product | What it does |
 |---|---|
-| ✅ **Check CV** | Background verification & compliance screening for employers *(building)* |
+| ✅ **AI Real Estate Assistant** | Conversational property search over live listings — RAG, maps, comparison, 9 languages |
+| 📄 **Check CV** | Background verification & compliance screening for employers *(building)* |
 | 📄 **Tune CV** | AI-driven resume optimization for job applicants *(building)* |
 | 🗺️ **PropVector AI** | Lifestyle-based property search across MLS data *(building)* |
 
