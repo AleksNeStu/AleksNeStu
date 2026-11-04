@@ -1,27 +1,66 @@
 <div align="center">
 
 # Aleksandr Nesterovich
-**NestLab** — an open-source AI automation studio
+**NestLab** — founder-led AI automation studio, Poland (EU)
 
-Backend, frontend, SaaS and infrastructure end-to-end ·
-Python · FastAPI · Next.js · Docker · Cloud
+Workflow automation and custom AI software, built end to end against a written scope
+and a fixed first milestone.
 
 [![NestLab](https://img.shields.io/badge/NestLab-nestlab.tech-6366F1?logo=rocket&logoColor=white)](https://nestlab.tech)
+[![Free 30-minute process review](https://img.shields.io/badge/Free_30-min_process_review-2ea44f?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://nestlab.tech/book-a-call)
 
 </div>
 
 ---
 
-### Featured Open Source
+### What we do
+
+Four ways to work with us — each one starts with a few sentences about the problem.
+Detail on [nestlab.tech/services](https://nestlab.tech/services).
+
+| Service | What it is |
+|---|---|
+| **AI workflow automation** | Lead routing and follow-up, document intake, reporting, internal alerts and approvals. An LLM step only where a step needs judgement — with guardrails and a human-review path. |
+| **Custom AI software development** | A production-ready first slice in four weeks: auth, one core flow, deployment, monitoring and backups wired from day one. Boring technology, no vendor lock-in. |
+| **AI integration services** | Retrieval-augmented search, assistants and extraction added to software you already run, with evaluation and cost limits so the feature stays predictable. |
+| **EU AI Act compliance** | The [EU AI Act Scanner](https://euaigap.co) method applied to client work — 5-tier risk classification, 8 obligation areas, 4 generated compliance documents. |
+
+---
+
+### The portfolio
+
+Four products under our own brand, plus the open-source project they are built on.
+Dated case studies on [nestlab.tech/work](https://nestlab.tech/work).
+
+| Product | What it does | Status |
+|---|---|---|
+| **EU AI Act Scanner** | Automated assessment for Regulation (EU) 2024/1689 — 5-tier risk classification, 8-area obligation scoring, and Technical Report / Annex V Declaration / FRIA / Post-Market Monitoring Plan | Closed beta · production since Jun 2026 |
+| **PropVector AI** | Commercial real-estate SaaS — ChromaDB vector search, MLS integration, ROI/CMA valuation, multi-year price forecast | In development |
+| **CheckCV** | CV analysis for recruiting teams — multi-format parsing, AI scoring with a per-organisation rubric, candidate pipeline, white-label branding | In development |
+| **TuneCV** | Resume optimisation for job seekers — ATS scoring, per-section rewrites, cover letters, interview prep, application tracker | In development |
+| [**OpenStore**](https://github.com/AleksNeStu/ai-real-estate-assistant) | Open-source AI real-estate search — RAG over live listings, ChromaDB, 13 LLM providers, 9 languages. The open-source sibling of PropVector AI | MIT licensed · [live demo](https://realestate-web-dz1y.onrender.com) |
+
+---
+
+### How we work
+
+- **Fixed first milestone** — scoped and priced before kickoff, then written into the scope.
+- **Founder-led delivery** — the person you contact stays with the work, from written scope through operation.
+- **EU data residency by default** — product runtimes on our own infrastructure in Germany, France and Canada. DPA and subprocessor list published.
+- **Daily written update, weekly call** — remote across the EU, based in Poland.
+
+---
+
+### Open source
 
 <div align="center">
 
-[🏠 **AI Real Estate Assistant**](https://github.com/AleksNeStu/ai-real-estate-assistant)
+[🏠 **OpenStore — AI real-estate search**](https://github.com/AleksNeStu/ai-real-estate-assistant)
 ![Stars](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/AleksNeStu/AleksNeStu/badges/stats.json&query=%24.stars&label=Stars&color=yellow) ![Forks](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/AleksNeStu/AleksNeStu/badges/stats.json&query=%24.forks&label=Forks&color=blue)
 
-Conversational search over property listings — RAG pipeline, 6+ LLM providers (OpenAI, Claude,
+Conversational AI for property search — RAG pipeline, 6+ LLM providers (OpenAI, Claude,
 Gemini, Ollama), mortgage calculator, interactive maps, property comparison, 9 languages.
-Built, deployed and maintained solo end to end: backend, data, cloud and interface.
+Shipped, deployed and maintained solo end to end.
 
 **FastAPI · Next.js · PostgreSQL · ChromaDB · Docker**
 
@@ -31,64 +70,9 @@ Built, deployed and maintained solo end to end: backend, data, cloud and interfa
 
 </div>
 
-<div align="center">
-
-[📰 **AI News Scraper**](https://github.com/AleksNeStu/ai-news-scraper)
-
-News ingestion with semantic search, RSS subscriptions and AI-generated summaries —
-a Python/TypeScript monorepo: FastAPI backend, Next.js frontend, Postgres, ChromaDB,
-Docker. The plainest backend-and-data example on this profile.
-
-**FastAPI · Next.js · PostgreSQL · ChromaDB · Docker**
-
-</div>
-
 ---
 
-### What the studio ships
-
-- **Backend & APIs** — Python/FastAPI services, PostgreSQL, Redis, message queues, background workers.
-- **Frontend** — Next.js, React, Tailwind, shadcn/ui — from API contract to shipped screen.
-- **Data & AI** — RAG and agentic workflows where the product needs them, not as a label.
-- **Platform** — Docker, Kubernetes, Terraform, CI/CD on GitHub Actions, GCP / Azure / AWS / Cloudflare.
-- **Full-stack ownership** — architecture, delivery, observability and production support, solo.
-
-Every product below is built the same way: one person, end to end, shipped and operated.
-
----
-
-### NestLab Products
-
-**NestLab** is the studio — a set of products designed, built, deployed and operated solo.
-The public repositories above are the open-source side of it; the studio itself is at
-[nestlab.tech](https://nestlab.tech).
-
-| Product | What it does |
-|---|---|
-| ✅ **AI Real Estate Assistant** | Conversational property search over live listings — RAG, maps, comparison, 9 languages |
-| 📄 **Check CV** | Background verification & compliance screening for employers *(building)* |
-| 📄 **Tune CV** | AI-driven resume optimization for job applicants *(building)* |
-| 🗺️ **PropVector AI** | Lifestyle-based property search across MLS data *(building)* |
-
----
-
-### GitHub Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AleksNeStu&theme=github-dark-blue&hide_border=true" alt="Streak Stats" height="170"/>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleksNeStu/AleksNeStu/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleksNeStu/AleksNeStu/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AleksNeStu/AleksNeStu/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
-### Tech Stack
+### Stack
 
 <div align="center">
 
@@ -121,5 +105,30 @@ The public repositories above are the open-source side of it; the studio itself 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![OVH](https://img.shields.io/badge/OVHcloud-123F6D?logo=ovh&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
+
+</div>
+
+---
+
+### GitHub Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=AleksNeStu&theme=github-dark-blue&hide_border=true" alt="Streak Stats" height="170"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleksNeStu/AleksNeStu/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleksNeStu/AleksNeStu/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AleksNeStu/AleksNeStu/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+**Bring the real problem — we size it live.**
+[Free 30-minute process review →](https://nestlab.tech/book-a-call) · [nestlab.tech](https://nestlab.tech)
 
 </div>
