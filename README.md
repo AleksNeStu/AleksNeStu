@@ -9,6 +9,9 @@ and a fixed first milestone.
 [![NestLab](https://img.shields.io/badge/NestLab-nestlab.tech-6366F1?logo=rocket&logoColor=white)](https://nestlab.tech)
 [![Free 30-minute process review](https://img.shields.io/badge/Free_30-min_process_review-2ea44f?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://nestlab.tech/book-a-call)
 
+Studio first — also open to senior backend, platform and AI-engineering roles, remote (EU).
+[![Open to work](https://img.shields.io/badge/Open_to_work-remote_senior_roles-success?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avnesterovich/)
+
 </div>
 
 ---
