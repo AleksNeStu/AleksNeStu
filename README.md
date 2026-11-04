@@ -1,80 +1,78 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0x1F2937&height=150&section=header&text=NestLab&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=AI+automation+studio&descAlignY=62&descAlign=50&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0x6366F1&height=150&section=header&text=NestLab&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=AI+automation+studio&descAlignY=62&descAlign=50&animation=fadeIn">
-  <img alt="NestLab — AI automation studio" src="https://capsule-render.vercel.app/api?type=waving&color=0x6366F1&height=150&section=header&text=NestLab&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=AI+automation+studio&descAlignY=62&descAlign=50&animation=fadeIn">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0x0E1119&height=150&section=header&text=NestLab&fontSize=72&fontColor=E2E8F0&fontAlignY=40&desc=AI+automation+studio&descAlignY=62&descAlign=50&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0x4F46E5&height=150&section=header&text=NestLab&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=AI+automation+studio&descAlignY=62&descAlign=50&animation=fadeIn">
+  <img alt="NestLab — AI automation studio" src="https://capsule-render.vercel.app/api?type=waving&color=0x4F46E5&height=150&section=header&text=NestLab&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=AI+automation+studio&descAlignY=62&descAlign=50&animation=fadeIn">
 </picture>
 
 # Aleksandr Nesterovich
 
 **Founder-led AI automation studio · Poland (EU) · since 2025**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1500&color=8B9DFF&center=true&vCenter=true&width=740&height=80&lines=Workflow+automation+that+removes+the+manual+steps;Custom+AI+software+development;AI+integration+for+software+you+already+run;EU+AI+Act+readiness+and+compliance&repeat=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1500&color=4F46E5&center=true&vCenter=true&width=740&height=80&lines=Workflow+automation+that+removes+the+manual+steps;Custom+AI+software+development;AI+integration+for+software+you+already+run;EU+AI+Act+readiness+and+compliance&repeat=true">
-  <img alt="Workflow automation, custom AI software, AI integration, EU AI Act compliance" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1500&color=4F46E5&center=true&vCenter=true&width=740&height=80&lines=Workflow+automation+that+removes+the+manual+steps;Custom+AI+software+development;AI+integration+for+software+you+already+run;EU+AI+Act+readiness+and+compliance&repeat=true">
-</picture>
+Workflow automation and custom AI software — built end to end, against a written scope and a fixed first milestone.
 
 [![NestLab](https://img.shields.io/badge/NestLab-nestlab.tech-6366F1?logo=rocket&logoColor=white)](https://nestlab.tech)
 [![Free 30-minute process review](https://img.shields.io/badge/Free_30-min_process_review-2ea44f?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://nestlab.tech/book-a-call)
 
 **Studio first.** We build our own products and take on a limited number of client contracts each year. The studio is the product; the work is what the studio is good at.
 
-[🚀 What we do](#-what-we-do) · [🧰 Portfolio](#-the-portfolio) · [⚙️ How we work](#-how-we-work) · [🧪 Open source](#-open-source) · [🧱 Stack](#-stack) · [📬 Work with us](#-work-with-us)
+[What we do](#what-we-do) · [The portfolio](#the-portfolio) · [How we work](#how-we-work) · [Open source](#open-source) · [Stack](#stack) · [Work with us](#work-with-us)
 
 </div>
 
 ---
 
-## 🚀 What we do
+## What we do
 
-Four ways to work with us — each one starts with a few sentences about the problem.
+Four ways to work with us. Each one starts with a few sentences about the problem.
 Detail on [nestlab.tech/services](https://nestlab.tech/services).
 
 | Service | What it is |
 |---|---|
-| ⚙️ **AI workflow automation** | Lead routing and follow-up, document intake, reporting, internal alerts and approvals. An LLM step only where a step needs judgement — with guardrails and a human-review path. |
-| 🧱 **Custom AI software development** | A production-ready first slice in four weeks: auth, one core flow, deployment, monitoring and backups wired from day one. Boring technology, no vendor lock-in. |
-| 🔌 **AI integration services** | Retrieval-augmented search, assistants and extraction added to software you already run, with evaluation and cost limits so the feature stays predictable. |
-| ⚖️ **EU AI Act compliance** | The [EU AI Act Scanner](https://euaigap.co) method applied to client work — 5-tier risk classification, 8 obligation areas, 4 generated compliance documents. |
+| **AI workflow automation** | Lead routing and follow-up, document intake, reporting, internal alerts and approvals. An LLM step only where a step needs judgement — with guardrails and a human-review path. |
+| **Custom AI software development** | A production-ready first slice in four weeks: auth, one core flow, deployment, monitoring and backups wired from day one. Boring technology, no vendor lock-in. |
+| **AI integration services** | Retrieval-augmented search, assistants and extraction added to software you already run, with evaluation and cost limits so the feature stays predictable. |
+| **EU AI Act compliance** | The [EU AI Act Scanner](https://euaigap.co) method applied to client work — 5-tier risk classification, 8 obligation areas, 4 generated compliance documents. |
 
 ---
 
-## 🧰 The portfolio
+## The portfolio
 
 Four products under our own brand, plus the open-source project they are built on.
 Dated case studies on [nestlab.tech/work](https://nestlab.tech/work).
 
 | Product | What it does | Status |
 |---|---|---|
-| 🛡️ **EU AI Act Scanner** | Automated assessment for Regulation (EU) 2024/1689 — 5-tier risk classification, 8-area obligation scoring, and Technical Report / Annex V Declaration / FRIA / Post-Market Monitoring Plan | 🔒 Closed beta · production since Jun 2026 |
-| 🗺️ **PropVector AI** | Commercial real-estate SaaS — ChromaDB vector search, MLS integration, ROI/CMA valuation, multi-year price forecast | 🚧 In development |
-| 📋 **CheckCV** | CV analysis for recruiting teams — multi-format parsing, AI scoring with a per-organisation rubric, candidate pipeline, white-label branding | 🚧 In development |
-| 🎯 **TuneCV** | Resume optimisation for job seekers — ATS scoring, per-section rewrites, cover letters, interview prep, application tracker | 🚧 In development |
-| 🏠 [**OpenStore**](https://github.com/AleksNeStu/ai-real-estate-assistant) | Open-source AI real-estate search — RAG over live listings, ChromaDB, 13 LLM providers, 9 languages. The open-source sibling of PropVector AI | ✅ MIT licensed · [live demo](https://realestate-web-dz1y.onrender.com) |
+| **EU AI Act Scanner** | Automated assessment for Regulation (EU) 2024/1689 — 5-tier risk classification, 8-area obligation scoring, and Technical Report, Annex V Declaration, FRIA and Post-Market Monitoring Plan | Closed beta, production since June 2026 |
+| **PropVector AI** | Commercial real-estate SaaS — ChromaDB vector search, MLS integration, ROI and CMA valuation, multi-year price forecast | In development |
+| **CheckCV** | CV analysis for recruiting teams — multi-format parsing, AI scoring with a per-organisation rubric, candidate pipeline, white-label branding | In development |
+| **TuneCV** | Resume optimisation for job seekers — ATS scoring, per-section rewrites, cover letters, interview prep, application tracker | In development |
+| [**OpenStore**](https://github.com/AleksNeStu/ai-real-estate-assistant) | Open-source AI real-estate search — RAG over live listings, ChromaDB, 16 LLM providers, 9 languages. The open-source sibling of PropVector AI | MIT licensed, [live demo](https://realestate-web-dz1y.onrender.com) |
 
 ---
 
-## ⚙️ How we work
+## How we work
 
-- 📌 **Fixed first milestone** — scoped and priced before kickoff, then written into the scope.
-- 👤 **Founder-led delivery** — the person you contact stays with the work, from written scope through operation.
-- 🇪🇺 **EU data residency by default** — product runtimes on our own infrastructure in Germany, France and Canada. DPA and subprocessor list published.
-- 📆 **Daily written update, weekly call** — remote across the EU, based in Poland.
+- **Fixed first milestone** — scoped and priced before kickoff, then written into the scope.
+- **Founder-led delivery** — the person you contact stays with the work, from written scope through operation.
+- **EU data residency by default** — product runtimes on our own infrastructure in Germany, France and Canada. DPA and subprocessor list published.
+- **Daily written update, weekly call** — remote across the EU, based in Poland.
 
 ---
 
-## 🧪 Open source
+## Open source
 
 <div align="center">
 
-[🏠 **OpenStore — AI real-estate search**](https://github.com/AleksNeStu/ai-real-estate-assistant)
+[OpenStore — AI real-estate search](https://github.com/AleksNeStu/ai-real-estate-assistant)
 ![Stars](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/AleksNeStu/AleksNeStu/badges/stats.json&query=%24.stars&label=Stars&color=yellow) ![Forks](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/AleksNeStu/AleksNeStu/badges/stats.json&query=%24.forks&label=Forks&color=blue)
 
-Conversational AI for property search — RAG pipeline, 6+ LLM providers (OpenAI, Claude,
-Gemini, Ollama), mortgage calculator, interactive maps, property comparison, 9 languages.
-Shipped, deployed and maintained solo end to end.
+Conversational AI for property search — hybrid RAG over live listings, 16 LLM providers
+(OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fireworks AI,
+HuggingFace, Groq, Mistral, Qwen, ZAI, Moonshot, OpenCode and a local Ollama), mortgage
+calculator, interactive maps, property comparison, 9 languages. Shipped, deployed and
+maintained solo end to end.
 
 **FastAPI · Next.js · PostgreSQL · ChromaDB · Docker**
 
@@ -86,7 +84,7 @@ Shipped, deployed and maintained solo end to end.
 
 ---
 
-## 🧱 Stack
+## Stack
 
 <div align="center">
 
@@ -123,7 +121,7 @@ Shipped, deployed and maintained solo end to end.
 </div>
 
 <details>
-<summary>🛠️ More of the stack — data, infrastructure, delivery</summary>
+<summary>More of the stack — delivery, data and infrastructure</summary>
 
 <div align="center">
 
@@ -145,7 +143,7 @@ Shipped, deployed and maintained solo end to end.
 
 ---
 
-## 📈 GitHub activity
+## GitHub activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=AleksNeStu&theme=github-dark-blue&hide_border=true" alt="Streak Stats" height="170"/>
@@ -161,12 +159,10 @@ Shipped, deployed and maintained solo end to end.
 
 ---
 
-## 📬 Work with us
-
 <div align="center">
 
 **Bring the real problem — we size it live.**
 
-[🗓️ Free 30-minute process review](https://nestlab.tech/book-a-call) · [🌐 nestlab.tech](https://nestlab.tech) · [💼 LinkedIn](https://www.linkedin.com/in/avnesterovich/)
+[Free 30-minute process review](https://nestlab.tech/book-a-call) · [nestlab.tech](https://nestlab.tech) · [LinkedIn](https://www.linkedin.com/in/avnesterovich/) · [github.com/NestLab-Tech](https://github.com/NestLab-Tech)
 
 </div>
