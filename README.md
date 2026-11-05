@@ -82,6 +82,18 @@ maintained solo end to end.
 
 </div>
 
+<div align="center">
+
+[AI News Search](https://github.com/AleksNeStu/ai-news-scraper)
+
+A personal semantic news library — RSS ingestion, embeddings and semantic search over the
+archive, with AI-generated summaries. A Python/TypeScript monorepo: FastAPI backend,
+Next.js frontend, PostgreSQL, ChromaDB, Docker.
+
+**FastAPI · Next.js · PostgreSQL · ChromaDB · Docker**
+
+</div>
+
 ---
 
 ## Stack
