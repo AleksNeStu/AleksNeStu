@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0x0E1119&height=150&section=header&text=NestLab&fontSize=72&fontColor=E2E8F0&fontAlignY=40&desc=AI+automation+studio&descAlignY=62&descAlign=50&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0x4F46E5&height=150&section=header&text=NestLab&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=AI+automation+studio&descAlignY=62&descAlign=50&animation=fadeIn">
-  <img alt="NestLab — AI automation studio" src="https://capsule-render.vercel.app/api?type=waving&color=0x4F46E5&height=150&section=header&text=NestLab&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=AI+automation+studio&descAlignY=62&descAlign=50&animation=fadeIn">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0x0E1119&height=150&section=header&text=NestLab Tech&fontSize=72&fontColor=E2E8F0&fontAlignY=40&desc=AI+automation+studio&descAlignY=62&descAlign=50&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0x4F46E5&height=150&section=header&text=NestLab Tech&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=AI+automation+studio&descAlignY=62&descAlign=50&animation=fadeIn">
+  <img alt="NestLab Tech — AI automation studio" src="https://capsule-render.vercel.app/api?type=waving&color=0x4F46E5&height=150&section=header&text=NestLab Tech&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=AI+automation+studio&descAlignY=62&descAlign=50&animation=fadeIn">
 </picture>
 
 # Aleksandr Nesterovich
@@ -12,8 +12,8 @@
 
 Workflow automation and custom AI software — built end to end, against a written scope and a fixed first milestone.
 
-[![NestLab](https://img.shields.io/badge/NestLab-nestlab.tech-6366F1?logo=rocket&logoColor=white)](https://nestlab.tech)
-[![Free 30-minute process review](https://img.shields.io/badge/Free_30-min_process_review-2ea44f?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://nestlab.tech/book-a-call)
+[![NestLab Tech](https://img.shields.io/badge/NestLab_Tech-nestlab.tech-6366F1?logo=rocket&logoColor=white)](https://nestlab.tech)
+[![Free 30-minute call](https://img.shields.io/badge/Free_30-min_call-2ea44f?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://nestlab.tech/book-a-call)
 
 **Studio first.** We build our own products and take on a limited number of client contracts each year. The studio is the product; the work is what the studio is good at.
 
@@ -30,10 +30,10 @@ Detail on [nestlab.tech/services](https://nestlab.tech/services).
 
 | Service | What it is |
 |---|---|
-| **AI workflow automation** | Lead routing and follow-up, document intake, reporting, internal alerts and approvals. An LLM step only where a step needs judgement — with guardrails and a human-review path. |
+| **AI workflow automation** | Lead routing and follow-up, document intake, reporting, internal alerts and approvals. Where a step needs judgement we add an LLM step with guardrails and a human-review path. |
 | **Custom AI software development** | A production-ready first slice in four weeks: auth, one core flow, deployment, monitoring and backups wired from day one. Boring technology, no vendor lock-in. |
 | **AI integration services** | Retrieval-augmented search, assistants and extraction added to software you already run, with evaluation and cost limits so the feature stays predictable. |
-| **EU AI Act compliance** | The [EU AI Act Scanner](https://euaigap.co) method applied to client work — 5-tier risk classification, 8 obligation areas, 4 generated compliance documents. |
+| **EU AI Act compliance** | We build and operate the [EU AI Act Scanner](https://nestlab.tech/products/euaigap.md), an automated assessment for Regulation 2024/1689, and apply the same method to client work. Preparation support, not legal advice. |
 
 ---
 
@@ -44,11 +44,11 @@ Dated case studies on [nestlab.tech/work](https://nestlab.tech/work).
 
 | Product | What it does | Status |
 |---|---|---|
-| **EU AI Act Scanner** | Automated assessment for Regulation (EU) 2024/1689 — 5-tier risk classification, 8-area obligation scoring, and Technical Report, Annex V Declaration, FRIA and Post-Market Monitoring Plan | Closed beta, production since June 2026 |
-| **PropVector AI** | Commercial real-estate SaaS — ChromaDB vector search, MLS integration, ROI and CMA valuation, multi-year price forecast | In development |
-| **CheckCV** | CV analysis for recruiting teams — multi-format parsing, AI scoring with a per-organisation rubric, candidate pipeline, white-label branding | In development |
-| **TuneCV** | Resume optimisation for job seekers — ATS scoring, per-section rewrites, cover letters, interview prep, application tracker | In development |
-| [**OpenStore**](https://github.com/AleksNeStu/ai-real-estate-assistant) | Open-source AI real-estate search — RAG over live listings, ChromaDB, 16 LLM providers, 9 languages. The open-source sibling of PropVector AI | MIT licensed, [live demo](https://realestate-web-dz1y.onrender.com) |
+| **EU AI Act Scanner** | Automated EU AI Act (Regulation 2024/1689) compliance assessment: 5-tier risk classification, 8-area scoring, 4 generated compliance documents. | Closed beta |
+| **PropVector AI** | Commercial AI real-estate SaaS. ChromaDB vector search, MLS integration, 9 languages, ROI / CMA valuation, multi-year price forecast. In development. | In development |
+| **CheckCV** | Professional CV analysis for recruiting teams. Multi-format parsing, AI scoring, weighted rubric, candidate pipeline, white-label branding. In development. | In development |
+| **TuneCV** | AI-powered resume optimization for job seekers. ATS scoring, AI suggestions, cover-letter generation, interview prep, application tracker. In development. | In development |
+| **[**OpenStore**](https://github.com/AleksNeStu/ai-real-estate-assistant)** | Open-source AI real-estate search, MIT licensed. RAG with ChromaDB, 16 LLM providers, 9 languages. The open-source sibling of PropVector AI. | MIT |
 
 ---
 
@@ -63,40 +63,33 @@ Dated case studies on [nestlab.tech/work](https://nestlab.tech/work).
 
 ## Open source
 
+The code we publish is the code we run. Every public repository, with its live demo where there is one.
+
+| Repository | What it is | Stars | Live |
+|---|---|---|---|
+| [**ai-real-estate-assistant**](https://github.com/AleksNeStu/ai-real-estate-assistant) | Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live demo. | 321 | [open](https://realestate-web-dz1y.onrender.com/) |
+| [**ai-news-scraper**](https://github.com/AleksNeStu/ai-news-scraper) | AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaDB monorepo. | 0 | [open](https://nestlab.tech?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) |
+
 <div align="center">
 
 [OpenStore — AI real-estate search](https://github.com/AleksNeStu/ai-real-estate-assistant)
 ![Stars](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/AleksNeStu/AleksNeStu/badges/stats.json&query=%24.stars&label=Stars&color=yellow) ![Forks](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/AleksNeStu/AleksNeStu/badges/stats.json&query=%24.forks&label=Forks&color=blue)
 
-Conversational AI for property search — hybrid RAG over live listings, 16 LLM providers
-(OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fireworks AI,
-HuggingFace, Groq, Mistral, Qwen, ZAI, Moonshot, OpenCode and a local Ollama), mortgage
-calculator, interactive maps, property comparison, 9 languages. Shipped, deployed and
-maintained solo end to end.
+**AI-powered conversational platform for property search, analytics, and market insights.** Ask in natural language — *"2-bedroom apartment in Kraków under 500k"* — get matched listings. Try the live demo below, no signup needed.
+
+Retrieval over 16 LLM providers behind one interface, in 9 languages.
 
 **FastAPI · Next.js · PostgreSQL · ChromaDB · Docker**
 
 [![Live Demo](https://img.shields.io/badge/Try_Live_Demo-brightgreen?style=for-the-badge&logo=render&logoColor=white)](https://realestate-web-dz1y.onrender.com)
-
-<img src="https://raw.githubusercontent.com/AleksNeStu/ai-real-estate-assistant/main/assets/screenshots/search-dark.png" alt="AI Real Estate Assistant — Property Search" width="700"/>
-
-</div>
-
-<div align="center">
-
-[AI News Search](https://github.com/AleksNeStu/ai-news-scraper)
-
-A personal semantic news library — RSS ingestion, embeddings and semantic search over the
-archive, with AI-generated summaries. A Python/TypeScript monorepo: FastAPI backend,
-Next.js frontend, PostgreSQL, ChromaDB, Docker.
-
-**FastAPI · Next.js · PostgreSQL · ChromaDB · Docker**
 
 </div>
 
 ---
 
 ## Stack
+
+The stack the open-source project runs on, mirrored from its own Tech Stack.
 
 <div align="center">
 
@@ -132,27 +125,6 @@ Next.js frontend, PostgreSQL, ChromaDB, Docker.
 
 </div>
 
-<details>
-<summary>More of the stack — delivery, data and infrastructure</summary>
-
-<div align="center">
-
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-111111?logo=ollama&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-
-</div>
-
-</details>
-
 ---
 
 ## GitHub activity
@@ -175,6 +147,6 @@ Next.js frontend, PostgreSQL, ChromaDB, Docker.
 
 **Bring the real problem — we size it live.**
 
-[Free 30-minute process review](https://nestlab.tech/book-a-call) · [nestlab.tech](https://nestlab.tech) · [LinkedIn](https://www.linkedin.com/in/avnesterovich/) · [github.com/NestLab-Tech](https://github.com/NestLab-Tech)
+[Free 30-minute call](https://nestlab.tech/book-a-call) · [nestlab.tech](https://nestlab.tech) · [LinkedIn](https://www.linkedin.com/in/avnesterovich/) · [github.com/NestLab-Tech](https://github.com/NestLab-Tech)
 
 </div>
