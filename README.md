@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="NestLab Tech - a founder-led AI studio in Poland">
+<img src="assets/banner.png" alt="NestLab Tech - a founder-led AI studio in the EU">
 
 # Aleksandr Nesterovich
 
-**NestLab Tech — A founder-led AI studio in Poland. Four flagship SaaS products, one open-source project, AI automation services.**
+**NestLab Tech — A founder-led AI studio in the EU. Four flagship SaaS products, one open-source project, AI automation services.**
 
 <a href="https://nestlab.tech?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme"><img src="assets/badge-brand.svg" alt="NestLab Tech" height="28"></a>
 <a href="https://nestlab.tech/book-a-call?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme"><img src="assets/badge-cta.svg" alt="Free 30-minute call" height="28"></a>
@@ -51,7 +51,7 @@ Dated case studies on [nestlab.tech/work](https://nestlab.tech/work?utm_source=g
 - **Fixed first milestone** — scoped and priced before kickoff, then written into the scope.
 - **Founder-led delivery** — the person you contact stays with the work, from written scope through operation.
 - **EU data residency by default** — product runtimes on our own infrastructure in Germany, France and Canada. DPA and subprocessor list published.
-- **Daily written update, weekly call** — remote across the EU, based in Poland.
+- **Daily written update, weekly call** — remote-first, based in the EU.
 
 ---
 
@@ -61,7 +61,7 @@ The code we publish is the code we run. Every public repository, with its live d
 
 | Repository | What it is | Stars | Live |
 |---|---|---|---|
-| [**ai-real-estate-assistant**](https://github.com/AleksNeStu/ai-real-estate-assistant) | Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live demo. | 321 | [open](https://realestate-web-dz1y.onrender.com/) |
+| [**ai-real-estate-assistant**](https://github.com/AleksNeStu/ai-real-estate-assistant) | Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live demo. | 321 | [open](https://realestate.nestlab.tech/) |
 | [**ai-news-scraper**](https://github.com/AleksNeStu/ai-news-scraper) | AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaDB monorepo. | 0 | [open](https://nestlab.tech?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) |
 
 **AleksNeStu/ai-real-estate-assistant** - 321 stars, 120 forks, MIT.
@@ -70,7 +70,7 @@ The code we publish is the code we run. Every public repository, with its live d
 
 Retrieval over 16 LLM providers behind one interface, in 9 languages.
 
-[Live demo](https://realestate-web-dz1y.onrender.com/)
+[Live demo](https://realestate.nestlab.tech/)
 
 <img src="https://raw.githubusercontent.com/AleksNeStu/ai-real-estate-assistant/dev/assets/screenshots/home-dark.png" alt="OpenStore - property search" width="700">
 
@@ -97,6 +97,6 @@ The stack the open-source project runs on, mirrored from its own Tech Stack tabl
 
 **Bring the real problem — we size it live.**
 
-[Free 30-minute call](https://nestlab.tech/book-a-call?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) &middot; [Start a project](https://nestlab.tech/contact?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) &middot; [nestlab.tech](https://nestlab.tech?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) &middot; [LinkedIn](https://www.linkedin.com/in/avnesterovich/) &middot; [GitHub (studio)](https://github.com/NestLab-Tech)
+[Free 30-minute call](https://nestlab.tech/book-a-call?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) &middot; [Start a project](https://nestlab.tech/contact?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) &middot; [nestlab.tech](https://nestlab.tech?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) &middot; [LinkedIn (studio)](https://www.linkedin.com/company/nestlab-tech) &middot; [GitHub (studio)](https://github.com/NestLab-Tech)
 
 ---
