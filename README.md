@@ -66,15 +66,19 @@ The code we publish is the code we run. Every public repository, with its live d
 
 **AleksNeStu/ai-real-estate-assistant** - 321 stars, 119 forks, MIT.
 
-**AI-powered conversational platform for property search, analytics, and market insights.** Ask in natural language — *"2-bedroom apartment in Kraków under 500k"* — get matched listings. The landing page is open; the app asks for a free account, and the demo answers with a model we pay for.
+**A conversational assistant for property search, analytics and market insight.** Ask in natural language — *"2-bedroom apartment in Kraków under 500k"* — and it answers from a semantic index over the catalogue, with the tools behind the chat: mortgage, rent-vs-buy, ROI, TCO, valuation. The landing page is open; the app asks for a free account; the demo answers with a model we pay for.
 
-Retrieval over 17 LLM providers behind one interface, in 9 languages. The assistant cites the catalogue it read.
+Retrieval over 17 LLM providers behind one interface, in 9 languages. The assistant cites the catalogue it read, and every price carries its currency.
 
 [Live demo](https://realty.kittray.com/?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme)
 
 <img src="assets/ai-real-estate-assistant-landing.png" alt="AI Real Estate Assistant - the landing page at realty.kittray.com" width="700">
 
 <img src="assets/ai-real-estate-assistant-chat.png" alt="The assistant answering from the catalogue, with its citations" width="700">
+
+<img src="assets/ai-real-estate-assistant-search.png" alt="The search: the query, the filters and the map, the results as a ledger of prices" width="700">
+
+<img src="assets/ai-real-estate-assistant-gate.png" alt="The sign-in wall in front of the account routes, with what the account is for" width="700">
 
 ---
 
