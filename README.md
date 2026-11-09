@@ -42,7 +42,7 @@ Dated case studies on [nestlab.tech/work](https://nestlab.tech/work?utm_source=g
 | <img src="assets/products/propvectorai.svg" width="30" alt=""> | [**PropVector AI**](https://nestlab.tech/products/propvectorai?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) | Commercial AI real-estate SaaS. ChromaDB vector search, MLS integration, 9 languages, ROI / CMA valuation, multi-year price forecast. In development. | In development |
 | <img src="assets/products/checkcv.svg" width="30" alt=""> | [**CheckCV**](https://nestlab.tech/products/checkcv?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) | Professional CV analysis for recruiting teams. Multi-format parsing, AI scoring, weighted rubric, candidate pipeline, white-label branding. In development. | In development |
 | <img src="assets/products/tunecv.svg" width="30" alt=""> | [**TuneCV**](https://nestlab.tech/products/tunecv?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) | AI-powered resume optimization for job seekers. ATS scoring, AI suggestions, cover-letter generation, interview prep, application tracker. In development. | In development |
-| <img src="assets/products/openstore.svg" width="30" alt=""> | [**OpenStore**](https://nestlab.tech/products/openstore?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) | Open-source AI real-estate search, MIT licensed. RAG with ChromaDB, 16 LLM providers, 9 languages. The open-source sibling of PropVector AI. | MIT |
+| <img src="assets/products/openstore.svg" width="30" alt=""> | [**OpenStore**](https://nestlab.tech/products/openstore?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) | Open-source AI real-estate search, MIT licensed. RAG with ChromaDB, 17 LLM providers, 9 languages. The open-source sibling of PropVector AI. | MIT |
 
 ---
 
@@ -61,18 +61,20 @@ The code we publish is the code we run. Every public repository, with its live d
 
 | Repository | What it is | Stars | Live |
 |---|---|---|---|
-| [**ai-real-estate-assistant**](https://github.com/AleksNeStu/ai-real-estate-assistant) | Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live demo. | 321 | [open](https://realestate.nestlab.tech/) |
+| [**ai-real-estate-assistant**](https://github.com/AleksNeStu/ai-real-estate-assistant) | Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live demo. | 321 | [open](https://realty.kittray.com/?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) |
 | [**ai-news-scraper**](https://github.com/AleksNeStu/ai-news-scraper) | AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaDB monorepo. | 0 | [open](https://nestlab.tech?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) |
 
-**AleksNeStu/ai-real-estate-assistant** - 321 stars, 120 forks, MIT.
+**AleksNeStu/ai-real-estate-assistant** - 321 stars, 119 forks, MIT.
 
-**AI-powered conversational platform for property search, analytics, and market insights.** Ask in natural language — *"2-bedroom apartment in Kraków under 500k"* — get matched listings. Try the live demo below, no signup needed.
+**AI-powered conversational platform for property search, analytics, and market insights.** Ask in natural language — *"2-bedroom apartment in Kraków under 500k"* — get matched listings. The landing page is open; the app asks for a free account, and the demo answers with a model we pay for.
 
-Retrieval over 16 LLM providers behind one interface, in 9 languages.
+Retrieval over 17 LLM providers behind one interface, in 9 languages. The assistant cites the catalogue it read.
 
-[Live demo](https://realestate.nestlab.tech/)
+[Live demo](https://realty.kittray.com/?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme)
 
-<img src="https://raw.githubusercontent.com/AleksNeStu/ai-real-estate-assistant/dev/assets/screenshots/home-dark.png" alt="OpenStore - property search" width="700">
+<img src="assets/ai-real-estate-assistant-landing.png" alt="AI Real Estate Assistant - the landing page at realty.kittray.com" width="700">
+
+<img src="assets/ai-real-estate-assistant-chat.png" alt="The assistant answering from the catalogue, with its citations" width="700">
 
 ---
 
@@ -86,7 +88,7 @@ The stack the open-source project runs on, mirrored from its own Tech Stack tabl
 | Frontend | Next.js 16 + React 19 |
 | Vector DB | ChromaDB (semantic search + MMR reranking) |
 | Relational DB | PostgreSQL / SQLite |
-| LLM Providers | OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fireworks AI, HuggingFace, Groq, Mistral, Qwen, ZAI, Moonshot, OpenCode, local Ollama |
+| LLM Providers | OpenAI, Anthropic, Google, Grok, DeepSeek, MiniMax, OpenRouter, Together AI, Fireworks AI, HuggingFace, Groq, Mistral, Qwen, ZAI, Moonshot, OpenCode, local Ollama |
 | Container | Docker / Docker Compose |
 | Hosting (staging) | Render free tier |
 | CI/CD | GitHub Actions (CI + GHCR + Render deploy) |
