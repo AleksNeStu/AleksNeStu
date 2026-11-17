@@ -61,24 +61,16 @@ The code we publish is the code we run. Every public repository, with its live d
 
 | Repository | What it is | Stars | Live |
 |---|---|---|---|
-| [**ai-real-estate-assistant**](https://github.com/AleksNeStu/ai-real-estate-assistant) | Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live demo. | 321 | [open](https://realty.kittray.com/?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) |
+| [**ai-real-estate-assistant**](https://github.com/AleksNeStu/ai-real-estate-assistant) | Open-source AI real estate assistant: RAG + vector search over your own listings, 17 LLM providers, FastAPI + Next.js. Run it on your own server with Docker, or try the live demo. | 326 | [open](https://realty.kittray.com) |
 | [**ai-news-scraper**](https://github.com/AleksNeStu/ai-news-scraper) | AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaDB monorepo. | 0 | [open](https://nestlab.tech?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme) |
 
-**AleksNeStu/ai-real-estate-assistant** - 321 stars, 119 forks, MIT.
+**AleksNeStu/ai-real-estate-assistant** - 326 stars, 120 forks, MIT.
 
-**A conversational assistant for property search, analytics and market insight.** Ask in natural language — *"2-bedroom apartment in Kraków under 500k"* — and it answers from a semantic index over the catalogue, with the tools behind the chat: mortgage, rent-vs-buy, ROI, TCO, valuation. The landing page is open; the app asks for a free account; the demo answers with a model we pay for.
+Retrieval over 17 LLM providers behind one interface, in 9 languages.
 
-Retrieval over 17 LLM providers behind one interface, in 9 languages. The assistant cites the catalogue it read, and every price carries its currency.
+[Live demo](https://realty.kittray.com)
 
-[Live demo](https://realty.kittray.com/?utm_source=github&utm_medium=referral&utm_campaign=product_showcase&utm_content=readme)
-
-<img src="assets/ai-real-estate-assistant-landing.png" alt="AI Real Estate Assistant - the landing page at realty.kittray.com" width="700">
-
-<img src="assets/ai-real-estate-assistant-chat.png" alt="The assistant answering from the catalogue, with its citations" width="700">
-
-<img src="assets/ai-real-estate-assistant-search.png" alt="The search: the query, the filters and the map, the results as a ledger of prices" width="700">
-
-<img src="assets/ai-real-estate-assistant-gate.png" alt="The sign-in wall in front of the account routes, with what the account is for" width="700">
+<img src="https://raw.githubusercontent.com/AleksNeStu/ai-real-estate-assistant/dev/assets/screenshots/home-dark.png" alt="OpenStore - property search" width="700">
 
 ---
 
@@ -88,14 +80,13 @@ The stack the open-source project runs on, mirrored from its own Tech Stack tabl
 
 | Layer | Technology |
 |---|---|
-| Backend API | FastAPI (Python 3.12+) |
-| Frontend | Next.js 16 + React 19 |
+| Backend API | FastAPI (Python `3.12+`) |
+| Frontend | Next.js `16` + React `19` |
 | Vector DB | ChromaDB (semantic search + MMR reranking) |
 | Relational DB | PostgreSQL / SQLite |
-| LLM Providers | OpenAI, Anthropic, Google, Grok, DeepSeek, MiniMax, OpenRouter, Together AI, Fireworks AI, HuggingFace, Groq, Mistral, Qwen, ZAI, Moonshot, OpenCode, local Ollama |
+| LLM providers | OpenAI, Anthropic, Google, Grok, DeepSeek, MiniMax, OpenRouter, Together AI, Fireworks AI, HuggingFace, Groq, Mistral, Qwen, ZAI, Moonshot, OpenCode, local Ollama |
 | Container | Docker / Docker Compose |
-| Hosting (staging) | Render free tier |
-| CI/CD | GitHub Actions (CI + GHCR + Render deploy) |
+| CI/CD | GitHub Actions (CI, GHCR images, deploy) |
 | Monitoring | Uptime Kuma + structured logs |
 
 ---
